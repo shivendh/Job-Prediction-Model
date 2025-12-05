@@ -72,17 +72,17 @@ pip install -r requirements.txt
 ---
 
 ## 📊 Output
--Predicts suitable job roles based on input features
--Provides insights from exploratory data analysis
--Demonstrates practical use of classification algorithms
+- Predicts suitable job roles based on input features
+- Provides insights from exploratory data analysis
+- Demonstrates practical use of classification algorithms
 
 ---
 
 ## 🧩 Use Cases
--Career guidance systems
--Resume screening assistance
--Academic machine learning projects
--Data science portfolio showcase
+- Career guidance systems
+- Resume screening assistance
+- Academic machine learning projects
+- Data science portfolio showcase
 
 ----
 
