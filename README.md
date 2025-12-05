@@ -71,14 +71,14 @@ pip install -r requirements.txt
 
 ---
 
-##📊 Output
+📊 Output
 -Predicts suitable job roles based on input features
 -Provides insights from exploratory data analysis
 -Demonstrates practical use of classification algorithms
 
--
+---
 
-##🧩 Use Cases
+🧩 Use Cases
 -Career guidance systems
 -Resume screening assistance
 -Academic machine learning projects
@@ -86,5 +86,5 @@ pip install -r requirements.txt
 
 ----
 
-##✅ Conclusion
+✅ Conclusion
 The Job Prediction Model highlights how machine learning can be applied to real-world career data. It showcases skills in data preprocessing, EDA, model development, and evaluation, making it a strong beginner-to-intermediate level data science project.
